@@ -1,3 +1,4 @@
 subor
-=====
-mkdir ~/Hello-World
+====
+$ mkdir ~/Hello-World
+
